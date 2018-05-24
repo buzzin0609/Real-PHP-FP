@@ -1,0 +1,19 @@
+{
+    "name": "will0/real-php-fp",
+    "description": "Simple Functional Programming Utilities",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Will Busby",
+            "email": "will0609@hotmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^7.1"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
